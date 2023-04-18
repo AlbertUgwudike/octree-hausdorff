@@ -13,6 +13,6 @@
 The example images are sparse 3D binary images of dimension 512 _ 512 _ 160
 Each contains approximately 50,000 labelled voxels
 
-### Examples use the NifTi file format,
+### Examples use the NifTi file format.
 
-### helper functions adapted from: https://nifti.nimh.nih.gov/pub/dist/src/
+### Helper functions adapted from: https://nifti.nimh.nih.gov/pub/dist/src/
