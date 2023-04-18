@@ -1,6 +1,6 @@
 # Octree based rapid hausdorff distance algorithm
 
-### Rapidly computes hausdorff distance between sparse 3D point clouds
+### Rapidly computes hausdorff distance between sparse 3D point clouds.
 
 ### Example usage:
 
@@ -10,8 +10,8 @@
 -   Hausdorff distance = 60.3738 voxels.
 -   Compute time = 8615 ms.
 
-The example images are sparse 3D binary images of dimension 512 _ 512 _ 160
-Each contains approximately 50,000 labelled voxels
+The example images are sparse 3D binary images of dimension 512 * 512 * 160.
+Each contains approximately 50,000 labelled voxels.
 
 ### Examples use the NifTi file format.
 
